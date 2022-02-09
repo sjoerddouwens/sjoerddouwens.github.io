@@ -2,11 +2,12 @@
 layout: page
 <!--title: Het atelier-->
 <!--subtitle: Studio 10 zorgatelier-->
-cover-img: "/assets/img/atelier1.jpg"
+cover-img: "/assets/img/wood.jpg"
 ---
 
-Welkom bij **Studio 10 zorgatelier**. Wij bieden dagbesteding aan
-mensen met een beperking, in hele dagen of in [dagdelen](/dagdelen).
+Welkom bij **Klusbedrijf Douwens**. Wij werken met hout en maken prachtige
+dingen.  We bieden dagbesteding aan mensen met een beperking, in hele dagen of
+in [dagdelen](/dagdelen).
 
 Studio 10 biedt onder andere creatieve dagbesteding: schilderen, textiele
 werkvormen, hout bewerken, boetseren, keramiek, mozaïek, tekenen en speksteen
