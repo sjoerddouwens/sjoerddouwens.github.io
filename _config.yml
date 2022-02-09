@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Studio 10 zorgatelier
+title: Klusbedrijf Douwens
 
 # Your name to show in the footer
-author: Elizabeth Geurts & Eyal Oren
+author: Sjoerd Douwens
 
 # --- List of links in the navigation bar --- #
 
@@ -39,8 +39,8 @@ title-img: "/assets/img/logo.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "info@studio10zorgatelier.nl"
-  facebook: Studio-10-Zorgatelier-459065357618409
+  email: "sjoerd@klusbedrijfdouwens.nl"
+    #  facebook: Studio-10-Zorgatelier-459065357618409
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -50,7 +50,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: studio10zorgatelier
+# instagram: studio10zorgatelier
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.studio10zorgatelier.nl"
+url-pretty: "www.klusbedrijfdouwens.nl"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
